@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/emojidecorator",
+  "version": "1.1.8",
+  "description": "Emoji Decorator is a simple tool for decorating text with emojis. It returns the text decorated with emojis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/emojidecorator-API.git"
+  },
+  "keywords": [
+    "emoji decorator","emoji decoration","emoji decorate","emoji api","emoji tool"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/emojidecorator-API/issues"
+  },
+  "homepage": "https://apiverve.com/marketplace/api/emojidecorator?utm_source=npm",
+  "devDependencies": {
+    "mocha": "^11.0.1",
+    "chai": "^5.1.2",
+    "dotenv": "^16.4.7"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "promise": "^8.3.0",
+    "axios": "1.7.9"
+  }
+}

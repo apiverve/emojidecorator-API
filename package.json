@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/emojidecorator",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "Emoji Decorator is a simple tool for decorating text with emojis. It returns the text decorated with emojis.",
   "main": "index.js",
   "scripts": {
